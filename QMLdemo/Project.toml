@@ -1,0 +1,13 @@
+name = "QMLdemo"
+uuid = "423c755a-0468-11e9-0ff2-cbebdf1dcba6"
+authors = ["bjanssens "]
+version = "0.1.0"
+
+[deps]
+CxxWrap = "1f15a43c-97ca-5a2a-ae31-89f07a497df4"
+GR = "28b8d3ca-fb5f-59d9-8090-bfdbd6d07a71"
+GeometryTypes = "4d00f742-c7ba-57c2-abde-4428a4b178cb"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+MeshIO = "7269a6da-0436-5bbc-96c2-40638cbb6118"
+ModernGL = "66fc600b-dfda-50eb-8b99-91cfa97b1301"
+QML = "2db162a6-7e43-52c3-8d84-290c1c42d82a"
